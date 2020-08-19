@@ -1,0 +1,23 @@
+# SineLines-Resolume-Arena-Plugin
+This is the repository of a Resolume Arena plugin using Processing
+Este es el repositorio para un Plugin para Resolume Arena hecho con Processing. 
+
+
+<img src = "fotos/2020-05-21%20at%2019.32.31.png" width =300 height = 300><img src = "fotos/2020-05-21%20at%2019.33.21.png" width =300 height = 300><img src = "fotos/2020-05-21%20at%2019.33.28.png" width =300 height = 300>
+
+<img src = "fotos/2020-05-21%20at%2019.33.39.png" width =300 height = 300><img src = "fotos/2020-05-21%20at%2019.33.49.png" width =300 height = 300>
+
+
+
+//Las librerias vienen en el paquete de Github. Para descargar Spout Controls dejo un link abajo. 
+//Gracias a https://processing.org/, https://discourse.processing.org/, a https://hamoid.com/ o @hamoid en el foro de processing. 
+//Esta app se descarga gratuitamente del link: https://github.com/alejoRGB/Lorenz-Atractor-Resolume-Arena-Plugin
+
+//Como Instalar este plugin en Resolume Arena 6 en Windows 10:
+
+//  1. Van a C:\Program Files\Resolume Arena 6\plugins\vfx
+//  2. Pegan la carpeta "Lorenz_Atracktor" ahi.
+//  3. Cuando abran Resolume debería aparecer el 
+//     plugin en la pestaña de FUENTES o SOURCES
+
+//SineLines
