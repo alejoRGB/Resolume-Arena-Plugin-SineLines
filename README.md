@@ -3,10 +3,9 @@
 This is the repository of a Resolume Arena plugin using Processing
 Este es el repositorio para un Plugin para Resolume Arena hecho con Processing. 
 
-<img src = "images/SineLines_1.png" width =300 height=300>
+<img src = "images/SineLines_1.png" width =300 height=300>     <img src = "images/SineLines_2.png" width =300 height=300>
 
-![SineLines_1](https://user-images.githubusercontent.com/65304001/90684898-524fcd00-e23f-11ea-910f-0eb8f0420c7f.png)
-
+<img src = "images/SineLines_3.png" width =300 height=300>     <img src = "images/SineLines_4.png" width =300 height=300>
 
 
 
