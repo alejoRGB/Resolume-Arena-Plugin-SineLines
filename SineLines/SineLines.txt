@@ -1,0 +1,27 @@
+/*{
+	"CREDIT": "SpoutControls - spout.zeal.co",
+	"DESCRIPTION": "SineLines",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+{
+			"NAME": "VELOCIDAD_LINEAS",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 600.00,
+			"DEFAULT": 300.00
+		},
+
+		
+
+		
+		{
+			"NAME": "amplitude1",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 600,
+			"DEFAULT": 300,
+		},
+	],
+}*/
